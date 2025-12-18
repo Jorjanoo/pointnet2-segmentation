@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/JohnSili/pointnet2-segmentation.git
+git clone https://github.com/Jorjanoo/pointnet2-segmentation.git
 cd pointnet2-segmentation
 ```
 
@@ -154,7 +154,7 @@ PointNet++ состоит из двух основных компонентов:
 
 Или клонируйте репозиторий:
 ```python
-!git clone https://github.com/JohnSili/pointnet2-segmentation.git
+!git clone https://github.com/Jorjanoo/pointnet2-segmentation.git
 %cd pointnet2-segmentation
 %pip install torch torchvision numpy scikit-learn tqdm matplotlib tensorboard -q
 ```
@@ -173,7 +173,3 @@ PointNet++ состоит из двух основных компонентов:
 - Используйте GPU (CUDA)
 - Уменьшите `num_points` или `batch_size`
 
-## Ссылки
-
-- [PointNet++ Paper](https://arxiv.org/pdf/1706.02413)
-- [PointNet++ GitHub](https://github.com/charlesq34/pointnet2)
